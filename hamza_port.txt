@@ -1,0 +1,9 @@
+My name is Muhammad Hamza. I am a dedicated and ambitious student currently pursuing a Bachelor's degree in Data Science from Emerson University, Multan. I am in my second semester and have a strong vision of becoming a top data scientist, aiming to pursue my master's from MIT.
+
+I am passionate about artificial intelligence, machine learning, and large language models. I am actively learning and working on projects involving LLMs, RAG, and LangChain. My current goal is to build 100 useful AI projects during my summer vacation, including chatbots, PDF QA bots, and intelligent tools for education and productivity.
+
+I am skilled in Python and familiar with libraries such as Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, and LangChain. I’ve also started learning fine-tuning techniques for LLMs and working with Hugging Face models.
+
+In addition to my academic goals, I enjoy working on electronics and IoT projects using Arduino and ESP8266. I believe in extreme hard work and consistency, striving to push beyond limits to achieve success.
+
+My dream is not only to master data science but to become a creator of tools that can help and inspire others.
